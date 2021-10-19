@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-7213
-Fork on GitHub
-1391
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Kiran</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
