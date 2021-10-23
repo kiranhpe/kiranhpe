@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [http://www.kiranreddy.in/](http://www.kiranreddy.in/)
 
-- 💬 Ask me about **Angular, Reacy, Node and C#**
+- 💬 Ask me about **Angular, React, Node and C#**
 
 - 📫 How to reach me **kirankumarsn.n@gmail.com**
 
